@@ -1,5 +1,7 @@
 # ESA
-Electronic Stethoscope Adapter  - EUvsVirus Hackathon
+Electronic Stethoscope Adapter  - EUvsVirus Hackathon submission
+
+https://devpost.com/software/electronic-stethoscope
 
 A simple disposable device that can be added to a conventional acoustic stethoscope in order to transform it into an "electronic stethoscope" that can be used even when wearing a full protective suit.
 
